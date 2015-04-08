@@ -1,13 +1,10 @@
 /*
- Theme Name:     Workality Premium Child Theme
- Theme URI:      http://northeme.com
- Description:    Child theme for workality
- Author:         Northeme.com
- Author URI:     http://northeme.com
- Template:       Workality-Premium-master
- License:        GNU General Public License version 3.0
- License URI:    http://www.gnu.org/licenses/gpl-3.0.html
- Version:        3.4.9
- Tags :          Responsive, Slick, Creatives
- Text Domain:    workality-premium-child
+Theme Name:     Workality Premium Child Theme
+Theme URI:      http://northeme.com/
+Description:    Child Theme for Workality
+Author:         Northeme.com
+Template:       Workality-Premium-master
+Version:        0.1.0
 */
+
+@import url("../Workality-Premium-master/style.css");
