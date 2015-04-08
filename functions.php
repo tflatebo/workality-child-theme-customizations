@@ -11,11 +11,11 @@ function md_child_theme_scripts()
  YOUR FUNCTIONS
 */
 
-#$custompostvals['title'] = "w-rks"; // post name / slug
-#$custompostvals['singular'] = "Pr-ject"; // single name
-#$custompostvals['plural'] = "W-rks"; // name
-#$custompostvals['slug'] = "w-rks"; // slug
-
-
+$custompostvals['title'] = "w-rks"; // post name / slug
+$custompostvals['singular'] = "Pr-ject"; // single name
+$custompostvals['plural'] = "W-rks"; // name
+$custompostvals['slug'] = "w-rks"; // slug
+$mydta['md_custom_posts']['works']['plural'] = "W-rks";
+$mydtas['md_custom_posts']['works']['plural'] = "W-rks";
 
 ?>
